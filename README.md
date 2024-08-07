@@ -1,2 +1,2 @@
 # python-demo
-demo for dpk1
+demo for dpk2
